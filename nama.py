@@ -1,3 +1,4 @@
 print("Halo, Git!")
 print("Gw muak ama kuliah, gw mau libur!")
 print("apa aja")
+print("tes!")
